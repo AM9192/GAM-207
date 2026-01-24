@@ -1,0 +1,16 @@
+gitignore
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# os junk
+.DS_Store
+Thumbs.db
